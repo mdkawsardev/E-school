@@ -1,0 +1,244 @@
+/* extra small */
+@media (max-width:575.98px){
+    /* header start */
+    header{
+        padding: 10px 0;
+    }
+    .logo{
+        width: 150px;
+    }
+    .menu ul li a {
+        padding: 0 6px 5px !important
+}
+/* banner start  */
+.banner {
+    padding: 0 0 50px;
+}
+.b_text {
+    text-align: center;
+}
+.bh1{
+    margin: 10px 0px 20px;
+    font-size: 30px;
+    line-height: 40px;
+}
+.bp2 {
+    margin: 0;
+    line-height: 30px;
+}
+.b_img {
+    margin: 0 0px 30px;
+}
+/* feature start  */
+.c_padding {
+    padding-bottom: 60px;
+}
+.sf_feature{
+    margin: 30px 0 0;
+}
+.sf_img{
+    width: 56px;
+    height: 75px;
+}
+.sf_h2 {
+    margin-top: 15px;
+}
+/* feature end  */
+/* online course start  */
+.cm_h1 {
+    font-size: 30px;
+    line-height: 15px;
+}
+.c_single {
+    margin: 30px 0 0;
+    padding: 20px 10px 20px;
+}
+/* online course end */
+.cm_title {
+    padding: 0 0 40px;
+}
+.l_img{
+    display: flex;
+    justify-content: center;
+}
+.m_text {
+    padding: 20px 0 0;
+}
+.m_p {
+    text-align: center;
+}
+/* footer start  */
+footer{
+    padding: 40px 0 0;
+}
+.f_1{
+    padding: 0 0 20px;
+    text-align: center;
+}
+.f_2{
+    text-align: center;
+}
+.fl_p{
+    text-align: center;
+}
+.f_last{
+    padding: 40px 0 40px;
+}
+/* footer end  */
+}
+/* small  */
+@media (min-width:576px) and (max-width:767.98px){
+    /* header start */
+    header{
+        padding: 10px 0;
+    }
+    .menu ul li a {
+        padding: 0 6px 5px !important
+}
+/* banner start  */
+.banner {
+    padding: 0 0 50px;
+}
+.b_text {
+    text-align: center;
+}
+.bh1{
+    margin: 10px 100px 20px;
+    font-size: 35px;
+    line-height: 45px;
+}
+.bp2 {
+    margin: 0 75px;
+    line-height: 30px;
+}
+.b_img {
+    margin: 0 30px 30px;
+}
+/* banner end */
+/* feature start  */
+.c_padding {
+    padding-bottom: 60px;
+}
+.sf_feature{
+    margin: 30px 0 0;
+}
+.sf_img{
+    width: 56px;
+    height: 75px;
+}
+.sf_h2 {
+    margin-top: 15px;
+}
+/* feature end  */
+/* online course start  */
+
+.cm_h1 {
+    font-size: 30px;
+    line-height: 15px;
+}
+.c_single {
+    margin: 30px 40px 0;
+}
+/* online course end */
+.cm_title {
+    padding: 0 0 50px;
+}
+.l_img{
+    display: flex;
+    justify-content: center;
+}
+.m_text {
+    padding: 20px 0 0;
+}
+.m_p {
+    text-align: center;
+}
+/* footer start  */
+footer{
+    padding: 40px 0 0;
+}
+.f_1{
+    padding: 0 0 20px;
+    text-align: center;
+}
+.f_2{
+    text-align: center;
+}
+.fl_p{
+    text-align: center;
+}
+.f_last{
+    padding: 40px 0 40px;
+}
+/* footer end  */
+}
+/* medium  */
+@media (min-width:768px) and (max-width:991.98px){
+    /* header start */
+    header{
+        padding: 20px 0;
+    }
+    .menu ul li a {
+        padding: 0 6px 5px !important
+}
+/* banner start  */
+.b_text {
+    text-align: center;
+}
+.bh1{
+    margin: 10px 100px 20px;
+}
+.bp2 {
+    margin: 0 105px;
+}
+.b_img {
+    margin: 0 50px 30px;
+}
+/* banner end */
+/* feature start  */
+.c_padding {
+    padding-bottom: 80px;
+}
+/* feature end  */
+/* online course start  */
+
+.cm_h1 {
+    font-size: 35px;
+    line-height: 30px;
+}
+.c_single {
+    margin: 60px 100px 0;
+}
+/* online course end */
+.cm_title {
+    padding: 0 0 50px;
+}
+.l_img{
+    display: flex;
+    justify-content: center;
+}
+.m_text {
+    padding: 20px 0 50px;
+}
+.m_p {
+    text-align: center;
+}
+}
+/* large  */
+@media (min-width:992px) and (max-width:1199.98px){
+    /* online course start  */
+    .c_single {
+        padding: 20px 10px 25px;
+    }
+    /* online course end  */
+}
+/* extra large  */
+@media (min-width:1200px) and (max-width:1399.98px){}
+/* extra extra large  */
+@media (min-width:1400px){
+    /* banner start  */
+    .bh1{
+        margin: 10px 120px 20px 0;
+    }
+    /* banner end  */
+}
